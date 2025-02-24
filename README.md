@@ -22,7 +22,7 @@
 
 - **标题**：【87版红楼梦群像｜虐】散了！就这么散了！…… （30万赞）    
   **来源**：Bilibili   
-  <a href="https://www.bilibili.com/video/BV1Kzy6YyEnE" target="_blank">观看链接</a>
+  <a href="https://www.bilibili.com/video/BV1Kzy6YyEnE" rel="noopener noreferrer" target="_blank">观看链接</a>
 
   
 - **标题**：【超清87红楼女子群像】叙世||却落个玉损消香（小虐怡情，不要恨我）（12万赞）  
