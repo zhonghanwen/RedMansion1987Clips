@@ -34,6 +34,7 @@
 - **标题**：活泼灵俏林姑娘：哪个蠢才传谣言我只爱哭？【红楼梦 | 林黛玉】  
   **来源**：Bilibili  
   [观看链接](https://www.bilibili.com/video/BV1Wo4y1W7LZ/)  
+<a href="https://www.bilibili.com/video/BV1Wo4y1W7LZ/" target="_blank">观看视频</a>
 
 ---
 
