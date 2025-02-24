@@ -4,7 +4,8 @@
 
 📖 更好的阅读体验
 
-本仓库内容已同步至 GitBook。在 GitHub 中点击链接会直接在本页面打开，而在 GitBook 中则可在新页面浏览。推荐前往 GitBook 版阅读，以获得更佳的阅读体验： 👉 [**GitBook: RedMansion1987Clips**](https://hanwen1001.gitbook.io/rt)
+本仓库内容已同步至 GitHub Pages。在 GitHub 中点击链接会直接在本页面打开，而在 GitHub Pages 中则可在新页面浏览。推荐前往 GitHub Pages 版阅读，以获得更佳的阅读体验： 👉 [**GitHub Pages: RedMansion1987Clips**](https://zhonghanwen.github.io/RedMansion1987Clips/#/)
+
 
 ### 🎯 **项目目的**
 
