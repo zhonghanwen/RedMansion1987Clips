@@ -52,12 +52,21 @@
 ### 合集 · 戏说红楼
 
 - **合集链接**：<a href="https://space.bilibili.com/3493138024893095/lists/3572703?type=season" target="_blank">合集·戏说红楼</a>   
-  **来源**：Bilibili  
+  **来源**：Bilibili
+
+### 睡前故事之 《红楼梦》
+
+- **合集链接**：<a href="https://v.douyin.com/i5dMAv7D/" target="_blank">睡前故事之 《红楼梦》</a>   
+  **来源**：douyin
 
 ### 剧情分析
 - **标题**：为什么说《红楼梦》才是顶级中式恐怖！上流公子下流人生，富家女被逼嫁人，贾府是如何崩坏的！  
   **来源**：Bilibili  
   <a href="https://www.bilibili.com/video/BV1HE4m197a9" target="_blank">观看链接</a>
+
+- **标题**：我们急于嘲笑那些简单的道理，却忘记了自己做不到的现实。 #高中生 #红楼梦 #知识 （32.8万）    
+  **来源**：douyin  
+  <a href="https://www.douyin.com/video/7459011575387622667" target="_blank">观看链接</a>
 
 ## 宝黛相关剪辑
 
