@@ -1,14 +1,10 @@
----
-icon: hand-wave
----
-
-# RedMansion1987Clips
+# RedMansion1987Clips - 1987版红楼梦精彩片段收藏
 
 欢迎来到 **RedMansion1987Clips**！本仓库致力于收集并分享1987年版电视剧《红楼梦》的精彩剪辑视频片段。这个经典的中国电视剧改编自曹雪芹的同名小说，是无数人心中的经典。我们希望通过这个仓库，收集和分享那些在哔哩哔哩、抖音等平台上令人印象深刻的短视频片段，让更多人能够感受到这个版本的魅力。
 
 📖 更好的阅读体验
 
-本仓库内容已同步至 GitBook。在 GitHub 中点击链接会直接在本页面打开，而在 GitBook 中则可在新页面浏览。推荐前往 GitBook 版阅读，以获得更佳的阅读体验： 👉 [**GitBook: RedMansion1987Clips**](https://hanwen1001.gitbook.io/redmansion1987clips)
+本仓库内容已同步至 GitBook。在 GitHub 中点击链接会直接在本页面打开，而在 GitBook 中则可在新页面浏览。推荐前往 GitBook 版阅读，以获得更佳的阅读体验： 👉 [**GitBook: RedMansion1987Clips**](https://hanwen1001.gitbook.io/rt)
 
 ### 🎯 **项目目的**
 
