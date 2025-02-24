@@ -12,11 +12,36 @@
 
 ---
 
+## 精彩混剪视频
+
+- **标题**：【87版红楼梦群像｜虐】散了！就这么散了！……
+- **来源**：Bilibili   
+  [观看链接](https://www.bilibili.com/video/BV1Kzy6YyEnE)
+
+  
+- **标题**：【超清87红楼女子群像】叙世||却落个玉损消香（小虐怡情，不要恨我）
+- **来源**：Bilibili   
+  [观看链接](https://www.bilibili.com/video/BV1gb411W7zo)
+
+- **标题**：「红楼梦·飞鸟各投林」落了片白茫茫大地真干净…
+- **来源**：Bilibili   
+  [观看链接](https://www.bilibili.com/video/BV1Rc41197jS)
+
+- **标题**：“好了歌注：为什么红楼梦能够成为四大名著之首”
+- **来源**：Bilibili   
+  [观看链接](https://www.bilibili.com/video/BV11F411y75d)
+
+
 ## 解读类视频
 ### 合集 · 《红楼梦》深度解读
 
 - **合集链接**：[《红楼梦》深度解读合集](https://space.bilibili.com/381389914/lists/2539544?type=season)
+- **来源**：Bilibili  
 
+### 合集 · 戏说红楼
+
+- **合集链接**：[合集·戏说红楼](https://space.bilibili.com/3493138024893095/lists/3572703?type=season)
+- **来源**：Bilibili  
 
 ### 剧情分析
 - **标题**：为什么说《红楼梦》才是顶级中式恐怖！上流公子下流人生，富家女被逼嫁人，贾府是如何崩坏的！  
@@ -29,13 +54,32 @@
 
 - **标题**：林黛玉发疯文学，教你花式dui人  
   **来源**：Bilibili  
-  [观看链接](https://www.bilibili.com/video/BV1og411b7f5/)  
+  [观看链接](https://www.bilibili.com/video/BV1og411b7f5/)
+
+- **标题**：来看看林黛玉发疯文学 
+  **来源**：Bilibili  
+  [观看链接](https://www.bilibili.com/video/BV1RY4y1p7FE)  
 
 - **标题**：活泼灵俏林姑娘：哪个蠢才传谣言我只爱哭？【红楼梦 | 林黛玉】  
   **来源**：Bilibili  
-  [观看链接](https://www.bilibili.com/video/BV1Wo4y1W7LZ/)  
-<a href="https://www.bilibili.com/video/BV1Wo4y1W7LZ/" target="_blank">观看视频</a>
+  [观看链接](https://www.bilibili.com/video/BV1Wo4y1W7LZ/)
 
+- **标题**：“你给我们家做媳妇少你什么 你瞧瞧”  
+  **来源**：Bilibili  
+  [观看链接](https://www.bilibili.com/video/BV1rh4y1p7eF)  
+
+- **标题**：林妹妹真的很会给周围人提供情绪价值啊！  
+  **来源**：Bilibili  
+  [观看链接](https://www.bilibili.com/video/BV16GajeQEJx/)
+
+- **标题**：林妹妹是古希腊提供情绪价值的神  
+  **来源**：Bilibili  
+  [观看链接](https://www.bilibili.com/video/BV1Vcq2YJEpv)
+
+- **标题**：【黛玉攻略】怎样让林怼怼翻车？调戏她就行了 | 红楼梦 宝黛
+  **来源**：Bilibili  
+  [观看链接](https://www.bilibili.com/video/BV19q4y1Q7TN)
+  
 ---
 
 ## 如何贡献
